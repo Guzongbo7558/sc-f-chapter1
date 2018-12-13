@@ -1,0 +1,10 @@
+用于测试git的文件
+git init
+
+git add src
+
+git commit -m  "first commit"
+
+git remote add origin https://github.com/Guzongbo7558/sc-f-chapter1.git
+
+git push  -u origin master
